@@ -13,4 +13,4 @@ Here are a few questions that this project will seek to answer:
 + What is the distribution of that life expectancy?
 
 # SQL for Data Science
-# Project 2: Usage Funnels with Warby Parker
+## Project 2: Usage Funnels with Warby Parker
