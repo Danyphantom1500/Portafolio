@@ -11,3 +11,6 @@ Here are a few questions that this project will seek to answer:
 + Is there a correlation between GDP and life expectancy of a country?
 + What is the average life expectancy in these nations?
 + What is the distribution of that life expectancy?
+
+# SQL for Data Science
+# Project 2: Usage Funnels with Warby Parker
