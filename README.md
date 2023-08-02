@@ -1,7 +1,7 @@
 # Portafolio
  This portafolio contains some projects about data analysis.
 
-# [Project 1: Data Visualization](https://github.com/Danyphantom1500/Data-Visualization-of-GDP)
+## [Project 1: Data Visualization](https://github.com/Danyphantom1500/Data-Visualization-of-GDP)
 This project will investigate if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.
 The goals are to prepare data, followed by analysis with plots, and seek to explain the findings from the study.
 
