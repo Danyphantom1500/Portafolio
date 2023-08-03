@@ -1,5 +1,5 @@
 # Portafolio
- This portafolio contains some projects about data analysis.
+ Bienvenido a mi Portafolio, donde muestro algunos proyectos relacionados a herramientas y habilidades entorno a Ciencia de Datos, entre los  proyectos, abordo temas de visualización de datos, limpieza de datos, análisis estadísticos descriptivo, etc.
 
 ## [Project 1: Data Visualization](https://github.com/Danyphantom1500/Data-Visualization-of-GDP)
 This project will investigate if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.
