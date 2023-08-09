@@ -1,20 +1,11 @@
 # Portafolio
- Bienvenido a mi Portafolio, donde muestro algunos proyectos relacionados a herramientas y habilidades entorno a Ciencia de Datos, entre los  proyectos, abordo temas de visualización de datos, limpieza de datos, análisis estadísticos descriptivo, etc.
+ Bienvenido a mi Portafolio, donde muestro algunos proyectos relacionados a herramientas y habilidades entorno a Ciencia de Datos, entre los  proyectos, abordo temas de visualización de datos, limpieza de datos, análisis estadístico descriptivo, etc. Además también añado una parte de mi trayectoria profesional y los proyectos en los que eh participado.
 
-# Exploratory Data Analysis
+# [Exploratory Data Analysis](https://github.com/Danyphantom1500/00-Exploratory-Data-Analysis/tree/main)
+Exploratory Data Analysis (EDA) is an essential step in the Data Science process, it is the start of any of your data science projects. So, in this section you will found some projects related to inspect, clean, validate datasets, and creating some summaries about relationship between variables. 
 
 # Data Visualization
-## Project 1: Data Visualization
-This project will investigate if there is a strong correlation between the economic output of a country and the life expectancy of its citizens.
-The goals are to prepare data, followed by analysis with plots, and seek to explain the findings from the study.
 
-Here are a few questions that this project will seek to answer:
-+ Has life expectancy increased over time in the six nations?
-+ Has GDP increased over time in the six nations?
-+ Is there a correlation between GDP and life expectancy of a country?
-+ What is the average life expectancy in these nations?
-+ What is the distribution of that life expectancy?
-+ 
 # Data treatment for data analysis
 
 # Linear Regression model
