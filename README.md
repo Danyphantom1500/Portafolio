@@ -1,6 +1,6 @@
 # Portafolio
  Bienvenido a mi Portafolio, donde muestro algunos proyectos relacionados a herramientas y habilidades entorno a Ciencia de Datos, entre los  proyectos, abordo temas de visualización de datos, limpieza de datos, análisis estadístico descriptivo, etc. Además también añado una parte de mi trayectoria profesional y los proyectos en los que eh participado.
-## [About me]
+## [About me](https://1drv.ms/b/s!Aq0qdrGP2YOToFUzKiio3Cnx68lN?e=n7SvUz)
 
 # [Exploratory Data Analysis](https://github.com/Danyphantom1500/00-Exploratory-Data-Analysis/tree/main)
 Exploratory Data Analysis (EDA) is an essential step in the Data Science process, it is the start of any of your data science projects. So, in this section you will found some projects related to inspect, clean, validate datasets, and creating some summaries about relationship between variables. 
