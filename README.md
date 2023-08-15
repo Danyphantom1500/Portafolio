@@ -14,9 +14,6 @@ A huge part of data science involves acquiring raw data and getting it into a fo
 # [SQL for Data Science](https://github.com/Danyphantom1500/03-SQL)
 SQL is at the heart of a lot of data science roles. It’s the most popular way to store and manage data, and is widely used. Even organizations that have adopted different technologies often still have some data in a Relational Database powered by SQL.
 
-# [BI Tools](https://github.com/Danyphantom1500/04-BI-Tools)
-
-
 # [Analyze Financial Data](https://github.com/Danyphantom1500/Analyze_Financial_data)
 This section objective is to process, analyze and visualize financial data with Python, such as cleaning data, making some visualizations, analyze and get conclusions. You can Click on the title of this section and you'll be redirected to its projects.
 
