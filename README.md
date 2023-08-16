@@ -1,6 +1,8 @@
 # Portafolio
  Bienvenido a mi Portafolio, donde muestro algunos proyectos relacionados a herramientas y habilidades entorno a Ciencia de Datos, entre los  proyectos, abordo temas de visualización de datos, limpieza de datos, análisis estadístico descriptivo, etc. Además también añado una parte de mi trayectoria profesional y los proyectos en los que e participado.
 >-------------------------------------------------------------------------------------
+![Screenshot 2023-08-15 212452](https://github.com/Danyphantom1500/Portafolio/assets/134737901/24395554-4805-43ed-9051-df0f74c63e83)
+
 Welcome to my portafolio...
 ## Instrucciones
 Para navegar através de esta página puedes dar click en cualquiera de los títulos, los cuales te redireccionarán al respectivo proyecto en Github, donde encontrarás tonto en proyecto como los archivos necesarios para su ejecución.
