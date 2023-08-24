@@ -19,4 +19,4 @@ A huge part of data science involves acquiring raw data and getting it into a fo
 
 # [SQL for Data Science](https://github.com/Danyphantom1500/03-SQL)
 SQL is at the heart of a lot of data science roles. It’s the most popular way to store and manage data, and is widely used. Even organizations that have adopted different technologies often still have some data in a Relational Database powered by SQL.
-
+![](images/SQL_BI_Project.png)
