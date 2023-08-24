@@ -14,7 +14,7 @@ Exploratory Data Analysis (EDA) is an essential step in the Data Science process
 Data visualization is essential to effectively communicate the story of data. It allows a data analyst or data science to look at data and understand the variables and relationships between them.
 ![](images/GDP_Countries.png)
 
-# [Data treatment for data analysis](https://github.com/Danyphantom1500/02-Data-treatment)
+# [Data treatment for data analysis]
 A huge part of data science involves acquiring raw data and getting it into a form ready for analysis. Some have estimated that data scientists spend 80% of their time cleaning and manipulating data, and only 20% of their time is used for analyzing it or building models.
 
 # [SQL for Data Science](https://github.com/Danyphantom1500/03-SQL)
