@@ -3,7 +3,7 @@
 >-------------------------------------------------------------------------------------
 Welcome to my portafolio...
 ## Instrucciones
-Para navegar através de esta página puedes dar click en cualquiera de los títulos, los cuales te redireccionarán al respectivo proyecto en Github, donde encontrarás tonto en proyecto como los archivos necesarios para su ejecución.
+Para navegar através de esta página puedes dar click en cualquiera de los títulos, los cuales te redireccionarán al respectivo proyecto en Github, donde encontrarás tanto el proyecto como los archivos necesarios para su ejecución.
 
 ## [Acerca de mi](https://1drv.ms/b/s!Aq0qdrGP2YOToGD8-VWFWI0NkY9r?e=07C44y)
 
