@@ -1,15 +1,9 @@
 # Daniel Portafolio
- Bienvenido a mi Portafolio, donde muestro algunos proyectos relacionados a herramientas y habilidades entorno a Ciencia de Datos, entre los  proyectos, abordo temas de visualización de datos, limpieza de datos, análisis estadístico descriptivo, etc. Además también añado una parte de mi trayectoria profesional y los proyectos en los que e participado.
->-------------------------------------------------------------------------------------
+
 Welcome to my portafolio...
+
 ## Instrucciones
 Para navegar através de esta página puedes dar click en cualquiera de los títulos, los cuales te redireccionarán al respectivo proyecto en Github, donde encontrarás tanto el proyecto como los archivos necesarios para su ejecución.
-
-## [Acerca de mi]
-
-# [Business Analytics] 
-
-# [Mechanical Engineer]
 
 # [Exploratory Data Analysis](https://github.com/Danyphantom1500/00-Exploratory-Data-Analysis/tree/main)
 Exploratory Data Analysis (EDA) is an essential step in the Data Science process, it is the start of any of your data science projects. So, in this section you will found some projects related to inspect, clean, validate datasets, and creating some summaries about relationship between variables. 
@@ -24,3 +18,6 @@ A huge part of data science involves acquiring raw data and getting it into a fo
 # [SQL for Data Science](https://github.com/Danyphantom1500/03-SQL)
 SQL is at the heart of a lot of data science roles. It’s the most popular way to store and manage data, and is widely used. Even organizations that have adopted different technologies often still have some data in a Relational Database powered by SQL.
 ![](images/SQL_BI_Project.png)
+
+# [Certificates](https://certificates.emeritus.org/0960af2e-43e4-4395-8341-d8f9245d71a0#acc.iwVD3fnN)
+Over all this program I learn about data analytics, and how to implement real data analysis that lead to business decisions.
