@@ -19,5 +19,6 @@ A huge part of data science involves acquiring raw data and getting it into a fo
 SQL is at the heart of a lot of data science roles. It’s the most popular way to store and manage data, and is widely used. Even organizations that have adopted different technologies often still have some data in a Relational Database powered by SQL.
 ![](images/SQL_BI_Project.png)
 
-# [Certificates](https://certificates.emeritus.org/0960af2e-43e4-4395-8341-d8f9245d71a0#acc.iwVD3fnN)
+# [Certificates]
+## [Marketing Analytics by Wharton School](https://certificates.emeritus.org/0960af2e-43e4-4395-8341-d8f9245d71a0#acc.iwVD3fnN)
 Over all this program I learn about data analytics, and how to implement real data analysis that lead to business decisions.
