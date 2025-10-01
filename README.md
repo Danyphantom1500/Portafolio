@@ -1,4 +1,4 @@
-# Daniel_Portafolio
+# Daniel Portafolio
  Bienvenido a mi Portafolio, donde muestro algunos proyectos relacionados a herramientas y habilidades entorno a Ciencia de Datos, entre los  proyectos, abordo temas de visualización de datos, limpieza de datos, análisis estadístico descriptivo, etc. Además también añado una parte de mi trayectoria profesional y los proyectos en los que e participado.
 >-------------------------------------------------------------------------------------
 Welcome to my portafolio...
