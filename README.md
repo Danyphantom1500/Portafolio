@@ -1,9 +1,6 @@
 # Daniel Portafolio
 
-Welcome to my portafolio...
-
-## Instrucciones
-Para navegar através de esta página puedes dar click en cualquiera de los títulos, los cuales te redireccionarán al respectivo proyecto en Github, donde encontrarás tanto el proyecto como los archivos necesarios para su ejecución.
+Welcome to my Data Science Portfolio, here you will find some dashboards, A/B tests, geoexperiments and EDA projects, all of them landed on **retail, marketing and business anlytics**.
 
 # [Exploratory Data Analysis](https://github.com/Danyphantom1500/00-Exploratory-Data-Analysis/tree/main)
 Exploratory Data Analysis (EDA) is an essential step in the Data Science process, it is the start of any of your data science projects. So, in this section you will found some projects related to inspect, clean, validate datasets, and creating some summaries about relationship between variables. 
